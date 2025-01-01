@@ -1,4 +1,4 @@
-<img src="./banner.jpg" alt="My Awesome Banner" width="100%" />
+<img src="./banner2.jpg" alt="My Awesome Banner" width="100%" />
 
 # 💫 About Me:
 Hello there! 👋 <br>
